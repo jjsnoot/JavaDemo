@@ -1,0 +1,24 @@
+package com;
+
+public class OperatorDemo {
+
+	public static void main(String[] args) {
+		int a=10, b=3;
+		int add, sub, mul, div, mod;
+		add = a+b;
+		sub = a-b;
+		mul = a*b;
+		div = a/b;
+		mod = a % b;
+		System.out.println("Arithmatic Operation");
+		System.out.println("Sub is " + sub);
+		System.out.println("Mul is " + mul);
+		System.out.println("Div is " + div);
+		System.out.println("Mod is " + mod);
+		System.out.println("Add is " + add);
+		
+				
+
+	}
+
+}
